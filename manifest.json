@@ -1,8 +1,9 @@
 {
-  "id": "./index.html",
-  "name": "ANTRIAN-TIKET",
-  "short_name": "TICKETING",
-  "start_url": "./index.html",
+  "id": "/antrian-tiket/",
+  "scope": "/antrian-tiket/",
+  "start_url": "/antrian-tiket/index.html",
+  "name": "tiket",
+  "short_name": "tiket OL",
   "display": "standalone",
   "background_color": "#1b1431",
   "theme_color": "#1b1431",
